@@ -13,7 +13,7 @@
 - 2.项目的框架没做优化
 
 
-![image](https://github.com/bastarder/Endless/blob/master/game.gif)
+
 ## 项目安装&启动
 
 ``` bash
